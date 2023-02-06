@@ -43,11 +43,11 @@
         </a>
     </td>
         <td>
-       <a href="" rel="nofollow noreferrer">
-          <img src="" alt="github"> Github
+       <a href="https://github.com/knpausch" rel="nofollow noreferrer">
+        <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
       </a><br>
-        <a href="" rel="nofollow noreferrer">
-          <img src="" alt="linkedin"> LinkedIn
+        <a href="https://www.linkedin.com/in/knpausch/" rel="nofollow noreferrer">
+           <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
       </a>
     </td>
         <td>
