@@ -1,5 +1,5 @@
 #To edit the readme go to the .github repository click the file profile than readme
-![TV](https://user-images.githubusercontent.com/108167041/216439795-497da591-e91b-49fc-a3cf-5b9daef92196.jpeg)
+![TV]![image](https://user-images.githubusercontent.com/108167041/217045858-7c0e9a2e-0c7f-4911-8092-86b7aced15ec.png)
 
 ### Contributors
 
