@@ -27,11 +27,11 @@
 
   <tr>
     <td>
-       <a href="" rel="nofollow noreferrer">
-          <img src="" alt="github"> Github
+       <a href="https://github.com/Courtney-Lippman" rel="nofollow noreferrer">
+        <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github  
       </a><br>
-        <a href="" rel="nofollow noreferrer">
-          <img src="" alt="linkedin"> LinkedIn
+        <a href="https://www.linkedin.com/in/courtneylippman/" rel="nofollow noreferrer">
+          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
       </a>
     </td>
     <td>
