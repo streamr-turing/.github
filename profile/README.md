@@ -19,7 +19,7 @@
     <td><img src="https://avatars.githubusercontent.com/u/108167041?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/19957834?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/106927896?s=120&v=4"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/108169988?s=120&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/108169988?s=180&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/108320490?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/110333328?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/96136707?s=120&v=4"></td>
@@ -34,5 +34,62 @@
           <img src="" alt="linkedin"> LinkedIn
       </a>
     </td>
+    <td>
+       <a href="" rel="nofollow noreferrer">
+          <img src="" alt="github"> Github
+      </a><br>
+        <a href="" rel="nofollow noreferrer">
+          <img src="" alt="linkedin"> LinkedIn
+      </a>
+    </td>
+        <td>
+       <a href="" rel="nofollow noreferrer">
+          <img src="" alt="github"> Github
+      </a><br>
+        <a href="" rel="nofollow noreferrer">
+          <img src="" alt="linkedin"> LinkedIn
+      </a>
+    </td>
+        <td>
+       <a href="" rel="nofollow noreferrer">
+          <img src="" alt="github"> Github
+      </a><br>
+        <a href="" rel="nofollow noreferrer">
+          <img src="" alt="linkedin"> LinkedIn
+      </a>
+    </td>
+        <td>
+       <a href="" rel="nofollow noreferrer">
+          <img src="" alt="github"> Github
+      </a><br>
+        <a href="" rel="nofollow noreferrer">
+          <img src="" alt="linkedin"> LinkedIn
+      </a>
+    </td>
+        <td>
+       <a href="" rel="nofollow noreferrer">
+          <img src="" alt="github"> Github
+      </a><br>
+        <a href="" rel="nofollow noreferrer">
+          <img src="" alt="linkedin"> LinkedIn
+      </a>
+    </td>
+        <td>
+       <a href="" rel="nofollow noreferrer">
+          <img src="" alt="github"> Github
+      </a><br>
+        <a href="" rel="nofollow noreferrer">
+          <img src="" alt="linkedin"> LinkedIn
+      </a>
+    </td>
+        <td>
+       <a href="" rel="nofollow noreferrer">
+          <img src="" alt="github"> Github
+      </a><br>
+        <a href="" rel="nofollow noreferrer">
+          <img src="" alt="linkedin"> LinkedIn
+      </a>
+    </td>
     </tr>
     
+</table>
