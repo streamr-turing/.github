@@ -51,19 +51,19 @@
       </a>
     </td>
         <td>
-       <a href="" rel="nofollow noreferrer">
-          <img src="" alt="github"> Github
+       <a href="https://github.com/MadelineMauser" rel="nofollow noreferrer">
+            <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
       </a><br>
-        <a href="" rel="nofollow noreferrer">
-          <img src="" alt="linkedin"> LinkedIn
+        <a href="https://www.linkedin.com/in/madeline-mauser-644239245/" rel="nofollow noreferrer">
+          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
       </a>
     </td>
         <td>
-       <a href="" rel="nofollow noreferrer">
-          <img src="" alt="github"> Github
+       <a href="https://github.com/sam-rice" rel="nofollow noreferrer">
+            <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
       </a><br>
-        <a href="" rel="nofollow noreferrer">
-          <img src="" alt="linkedin"> LinkedIn
+        <a href="https://www.linkedin.com/in/-sam-rice/" rel="nofollow noreferrer">
+          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
       </a>
     </td>
         <td>
@@ -75,19 +75,19 @@
       </a>
     </td>
         <td>
-       <a href="" rel="nofollow noreferrer">
-          <img src="" alt="github"> Github
+       <a href="https://github.com/willjw2" rel="nofollow noreferrer">
+            <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
       </a><br>
-        <a href="" rel="nofollow noreferrer">
-          <img src="" alt="linkedin"> LinkedIn
+        <a href="https://www.linkedin.com/in/william-wang-814442240/" rel="nofollow noreferrer">
+          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
       </a>
     </td>
         <td>
        <a href="" rel="nofollow noreferrer">
-          <img src="" alt="github"> Github
+            <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
       </a><br>
         <a href="" rel="nofollow noreferrer">
-          <img src="" alt="linkedin"> LinkedIn
+          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
       </a>
     </td>
     </tr>
