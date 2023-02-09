@@ -1,5 +1,7 @@
-#To edit the readme go to the .github repository click the file profile than readme
-![TV]![image](https://user-images.githubusercontent.com/108167041/217045858-7c0e9a2e-0c7f-4911-8092-86b7aced15ec.png)
+<h1> Welcome to Streamr ! </h1>
+
+
+![image](https://user-images.githubusercontent.com/108167041/217045858-7c0e9a2e-0c7f-4911-8092-86b7aced15ec.png)
 
 ### Contributors
 
