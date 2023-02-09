@@ -3,6 +3,39 @@
 
 ![image](https://user-images.githubusercontent.com/108167041/217045858-7c0e9a2e-0c7f-4911-8092-86b7aced15ec.png)
 
+
+📺: [Learning Goals](#learning-goals)
+<br>
+📺: [Project Overview](#project-overview)
+<br>
+📺: [Planning](#planning)
+<br>
+📺: [Tech Stack](#tech-stack)
+<br>
+📺: [Deployment](#deployment)
+<br>
+📺: [Contributors](#contributors)
+<br>
+
+### Learning Goals
+Back end
+  -
+  - Consume external APIs 
+  - Create a project with a separate frontend and backend
+  - Code follows DRY and SRP design
+  
+ Front End
+  -
+  - 1
+  - 2
+  - 3
+
+### Project Overview
+
+[Backend repo](https://github.com/streamr-turing/streamr-be)
+<br>
+[Frontend repo](https://github.com/streamr-turing/streamr-fe)
+
 ### Contributors
 
 <table>
