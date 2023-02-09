@@ -13,6 +13,7 @@
     <th>Sean Culliton</th>
     <th>William Wang</th>
     <th>Kathleen Brandt<br>(Project Manager)</th>
+    <th>Hemesh Patel<br>(Project Mentor)</th>
   </tr>
   <tr>
     <td><img src="https://avatars.githubusercontent.com/u/104169837?s=120&v=4"></td>
@@ -23,6 +24,7 @@
     <td><img src="https://avatars.githubusercontent.com/u/108320490?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/110333328?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/96136707?s=120&v=4"></td>
+    <td><img src="https://avatars.githubusercontent.com/u/95383296?s=120&v=4"></td>
   </tr>
 
   <tr>
@@ -83,10 +85,18 @@
       </a>
     </td>
         <td>
-       <a href="" rel="nofollow noreferrer">
+       <a href="https://github.com/KatBrandt" rel="nofollow noreferrer">
             <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
       </a><br>
-        <a href="" rel="nofollow noreferrer">
+        <a href="https://www.linkedin.com/in/katbrandt/" rel="nofollow noreferrer">
+          <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+      </a>
+    </td>
+            <td>
+       <a href="https://github.com/hemeshvpatelHE" rel="nofollow noreferrer">
+            <img src="https://i.stack.imgur.com/tskMh.png" alt="github"> Github
+      </a><br>
+        <a href="https://www.linkedin.com/in/hemeshvpatel/" rel="nofollow noreferrer">
           <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
       </a>
     </td>
