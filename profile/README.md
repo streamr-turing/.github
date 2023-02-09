@@ -20,9 +20,9 @@
 ### Learning Goals
 Back end
   -
-  - Consume external APIs 
-  - Create a project with a separate frontend and backend
-  - Code follows DRY and SRP design
+  - 1 
+  - 2
+  - 3
   
  Front End
   -
@@ -35,6 +35,8 @@ Back end
 [Backend repo](https://github.com/streamr-turing/streamr-be)
 <br>
 [Frontend repo](https://github.com/streamr-turing/streamr-fe)
+
+### Planning
 
 ### Contributors
 
