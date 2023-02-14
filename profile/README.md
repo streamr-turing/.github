@@ -37,6 +37,11 @@ Back end
 [Frontend repo](https://github.com/streamr-turing/streamr-fe)
 
 ### Planning
+[Github project board](https://github.com/orgs/streamr-turing/projects/1)<br>
+<img width="1312" alt="Screenshot 2023-02-14 at 2 19 24 PM" src="https://user-images.githubusercontent.com/108167041/218876598-cac0e396-11b1-464f-8c90-d37b4b18d184.png"><br>
+[Miro Board](https://miro.com/app/board/uXjVPsVtahE=/)<br>
+<img width="1028" alt="Screenshot 2023-02-14 at 2 23 09 PM" src="https://user-images.githubusercontent.com/108167041/218876813-7f9525e8-fff8-4bc4-80fd-148f932fd4ec.png">
+
 
 ### Contributors
 
