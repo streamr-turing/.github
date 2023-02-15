@@ -1,8 +1,10 @@
 <h1 align="center"> :tv: Streamr :tv: </h1>
 
-
+<div align="center">
+  
 ![image](https://user-images.githubusercontent.com/108167041/217045858-7c0e9a2e-0c7f-4911-8092-86b7aced15ec.png)
-
+  
+</div>
 
 📺: [Learning Goals](#learning-goals)
 <br>
