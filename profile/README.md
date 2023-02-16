@@ -34,6 +34,7 @@ Back end
 
 ### Project Overview
 
+[Deployed App](https://main--frabjous-halva-33ef87.netlify.app/)
 [Backend repo](https://github.com/streamr-turing/streamr-be)
 <br>
 [Frontend repo](https://github.com/streamr-turing/streamr-fe)
