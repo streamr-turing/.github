@@ -20,13 +20,13 @@ With the multitudes of TV shows coming and going across multiple streaming platf
 <br>
 
 ### Learning Goals
- ####Back end
+ Back end
   -
   - Gain experience using continuous integration tools to build and automate the deployment of features
   - Focus on communication between front-end and back-end teams in order to complete and deploy features that have been outlined by the project spec
   - Gain experience dividing applications into components and domains of responsibilities to facilitate multi-developer teams. Service oriented architecture concepts and patterns are highly encouraged.
   
- ####Front End
+ Front End
   -
   - 1
   - 2
