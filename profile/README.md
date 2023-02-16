@@ -5,54 +5,53 @@
 
 </div>
 
-📺: [Learning Goals](#learning-goals)
-<br>
 📺: [Project Overview](#project-overview)
 <br>
-📺: [Planning](#planning)
-<br>
-📺: [Tech Stack](#tech-stack)
+📺: [Learning Goals](#learning-goals)
 <br>
 📺: [Deployment](#deployment)
+<br>
+📺: [Planning](#planning)
 <br>
 📺: [Contributors](#contributors)
 <br>
 
-### Learning Goals
- Back end
-  -
+## Project Overview
+
+ With the multitudes of TV shows coming and going across multiple streaming platforms, it can be hard to keep track of all of the shows being recommended to you. Streamr organizes your recommended shows in one place and provides their streaming details for your convenience. Users can send recommendations to each other and make discoveries by browsing through the database of TV shows. Users can then save shows to their watchlist in order to view the details later.
+ 
+[Backend repo](https://github.com/streamr-turing/streamr-be)
+<br>
+[Frontend repo](https://github.com/streamr-turing/streamr-fe)
+
+## Learning Goals
+ ### Back end
   - Gain experience using continuous integration tools to build and automate the deployment of features
   - Focus on communication between front-end and back-end teams in order to complete and deploy features that have been outlined by the project spec
   - Gain experience dividing applications into components and domains of responsibilities to facilitate multi-developer teams. Service oriented architecture concepts and patterns are highly encouraged.
   
- Front End
-  -
+ ### Front End
   - 1
   - 2
   - 3
 
-### Project Overview
+## Deployment
 
- With the multitudes of TV shows coming and going across multiple streaming platforms, it can be hard to keep track of all of the shows being recommended to you. Streamr organizes your recommended shows in one place and provides their streaming details for your convenience. Users can send recommendations to each other and make discoveries by browsing through the database of TV shows. Users can then save shows to their watchlist in order to view the details later.
- 
 [Deployed App](https://main--frabjous-halva-33ef87.netlify.app/)
-[Backend repo](https://github.com/streamr-turing/streamr-be)
-<br>
-[Frontend repo](https://github.com/streamr-turing/streamr-fe)
 
 #### Example Login:
 Username: martha_stewart
 <br>
 Password: streamr
 
-### Planning
+## Planning
 [Github project board](https://github.com/orgs/streamr-turing/projects/1)<br>
 <img width="1312" alt="Screenshot 2023-02-14 at 2 19 24 PM" src="https://user-images.githubusercontent.com/108167041/218876598-cac0e396-11b1-464f-8c90-d37b4b18d184.png"><br>
 [Miro Board](https://miro.com/app/board/uXjVPsVtahE=/)<br>
 <img width="1028" alt="Screenshot 2023-02-14 at 2 23 09 PM" src="https://user-images.githubusercontent.com/108167041/218876813-7f9525e8-fff8-4bc4-80fd-148f932fd4ec.png">
 
 
-### Contributors
+## Contributors
 
 <table>
   <tr>
