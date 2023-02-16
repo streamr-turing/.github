@@ -1,7 +1,9 @@
 <h1 align="center"> :tv: Streamr :tv: </h1>
+<div align="center">
 
 ![image](https://user-images.githubusercontent.com/108167041/217045858-7c0e9a2e-0c7f-4911-8092-86b7aced15ec.png)
 
+</div>
 With the multitudes of TV shows coming and going across multiple streaming platforms, it can be hard to keep track of all of the shows being recommended to you. Streamr organizes your recommended shows in one place and provides their streaming details for your convenience. Users can send recommendations to each other and make discoveries by browsing through the database of TV shows. Users can then save shows to their watchlist in order to view the details later.
 
 📺: [Learning Goals](#learning-goals)
