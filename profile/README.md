@@ -31,9 +31,9 @@
   - Gain experience dividing applications into components and domains of responsibilities to facilitate multi-developer teams. Service oriented architecture concepts and patterns are highly encouraged.
   
  ### Front End
-  - 1
-  - 2
-  - 3
+  - Collaborate with the Backend team to develop a polished product that best represents our MVP.
+  - Learn the pipeline process by incorporating CircleCI as part of our workflow.
+  - Research and implement GraphQL to access a variety of data without over or under fetching.
 
 ## Deployment
 
