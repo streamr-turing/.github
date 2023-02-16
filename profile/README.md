@@ -4,7 +4,6 @@
 ![image](https://user-images.githubusercontent.com/108167041/217045858-7c0e9a2e-0c7f-4911-8092-86b7aced15ec.png)
 
 </div>
-With the multitudes of TV shows coming and going across multiple streaming platforms, it can be hard to keep track of all of the shows being recommended to you. Streamr organizes your recommended shows in one place and provides their streaming details for your convenience. Users can send recommendations to each other and make discoveries by browsing through the database of TV shows. Users can then save shows to their watchlist in order to view the details later.
 
 📺: [Learning Goals](#learning-goals)
 <br>
@@ -34,10 +33,16 @@ With the multitudes of TV shows coming and going across multiple streaming platf
 
 ### Project Overview
 
+ With the multitudes of TV shows coming and going across multiple streaming platforms, it can be hard to keep track of all of the shows being recommended to you. Streamr organizes your recommended shows in one place and provides their streaming details for your convenience. Users can send recommendations to each other and make discoveries by browsing through the database of TV shows. Users can then save shows to their watchlist in order to view the details later.
+ 
 [Deployed App](https://main--frabjous-halva-33ef87.netlify.app/)
 [Backend repo](https://github.com/streamr-turing/streamr-be)
 <br>
 [Frontend repo](https://github.com/streamr-turing/streamr-fe)
+
+#### Example Login:
+Username: martha_stewart
+Password: streamr
 
 ### Planning
 [Github project board](https://github.com/orgs/streamr-turing/projects/1)<br>
