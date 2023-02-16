@@ -42,6 +42,7 @@
 
 #### Example Login:
 Username: martha_stewart
+<br>
 Password: streamr
 
 ### Planning
