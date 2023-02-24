@@ -72,7 +72,7 @@ Password: streamr
     <td><img src="https://avatars.githubusercontent.com/u/106927896?width="325" height="80""></td>
     <td><img src="https://avatars.githubusercontent.com/u/108169988?s=180&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/108320490?s=120&v=4"></td>
-    <td><img src="https://avatars.githubusercontent.com/u/110333328?width="325" height="80""></td>
+    <td><img src="https://avatars.githubusercontent.com/u/110333328?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/96136707?s=120&v=4"></td>
     <td><img src="https://avatars.githubusercontent.com/u/95383296?s=120&v=4"></td>
   </tr>
